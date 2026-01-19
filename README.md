@@ -43,7 +43,7 @@ Berikut adalah tampilan aplikasi serta databasenya sesuai dengan format **portra
 
 ---
 
-### 📱 Mode Landscape
+### ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter) Database
 
 <img src="foto_video/f7.png" width="500"/>
 <img src="foto_video/f8.png" width="500"/>
