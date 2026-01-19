@@ -60,8 +60,7 @@ Berikut adalah video demo penggunaan aplikasi:
 ## 🎥 Video Demo Aplikasi
 
 <video width="300" controls>
-  <source src="foto_video/demo.mp4" type="video/mp4">
-  Browser kamu tidak mendukung pemutaran video.
+  <source src="https://raw.githubusercontent.com/seyan88/PEMOB-2-Pertemuan_Akhir/main/foto_video/demo.mp4" type="video/mp4">
 </video>
 
 
