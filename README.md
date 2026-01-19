@@ -43,7 +43,7 @@ Berikut adalah tampilan aplikasi serta databasenya sesuai dengan format **portra
 
 ---
 
-### ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter) Database
+### ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase) Database
 
 <img src="foto_video/f7.png" width="500"/>
 <img src="foto_video/f8.png" width="500"/>
