@@ -52,11 +52,10 @@ Berikut adalah tampilan aplikasi serta databasenya sesuai dengan format **portra
 
 ---
 
+
 ## 🎥 Video Demo Aplikasi
 
 Berikut adalah video demo penggunaan aplikasi:
-
-## 🎥 Video Demo Aplikasi
 
 Klik gambar di bawah untuk melihat video demo aplikasi:
 
