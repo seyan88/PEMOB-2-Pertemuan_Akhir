@@ -45,10 +45,10 @@ Berikut adalah tampilan aplikasi serta databasenya sesuai dengan format **portra
 
 ### 📱 Mode Landscape
 
-<img src="foto_video/f7.jpeg" width="500"/>
-<img src="foto_video/f8.jpeg" width="500"/>
+<img src="foto_video/f7.png" width="500"/>
+<img src="foto_video/f8.png" width="500"/>
 
-> 📌 *Silakan ganti nama file dan tambahkan screenshot sesuai kebutuhan.*
+
 
 ---
 
@@ -59,7 +59,7 @@ Berikut adalah video demo penggunaan aplikasi:
 🔗 **Link Video Demo:**
 ## 🎥 Video Demo Aplikasi
 
-<video width="600" controls>
+<video width="300" controls>
   <source src="foto_video/demo.mp4" type="video/mp4">
   Browser kamu tidak mendukung pemutaran video.
 </video>
