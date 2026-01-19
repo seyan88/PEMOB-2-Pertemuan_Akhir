@@ -1,16 +1,84 @@
-# pertemuan_13
+# Pertemuan 13 & 14 – Pemrograman Mobile 2
 
-A new Flutter project.
+## 📌 Informasi Tugas
 
-## Getting Started
+Repository ini digunakan untuk **pengumpulan tugas Pertemuan 13 dan Pertemuan 14**
+mata kuliah **Pemrograman Mobile 2**.
 
-This project is a starting point for a Flutter application.
+**Nama:** Sulastian Setiadi
+**Kelas:** RP TIF 23 CID A
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Link APK
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+APK aplikasi dapat diunduh melalui link berikut:
+
+🔗 **[Download APK](https://drive.google.com/drive/folders/1bEfMXcx_Y7BZextqFR2-1yePdEoOMuVp?usp=sharing)**
+
+---
+
+## 📝 Deskripsi Project
+
+Project ini merupakan aplikasi berbasis **Flutter** yang dibuat sebagai bagian dari
+tugas pertemuan 13 dan 14 pada mata kuliah Pemrograman Mobile 2.
+
+Aplikasi dikembangkan menggunakan Flutter dan dapat dijalankan pada platform Android.
+
+---
+
+## 🖼️ Screenshot Aplikasi
+
+Berikut adalah tampilan aplikasi serta databasenya sesuai dengan format **portrait** dan **landscape**
+(disusun secara **vertikal**):
+
+### 📱 Mode Portrait
+
+<img src="foto_video/f1.jpeg" width="300"/>
+<img src="foto_video/f2.jpeg" width="300"/>
+<img src="foto_video/f3.jpeg" width="300"/>
+<img src="foto_video/f4.jpeg" width="300"/>
+<img src="foto_video/f5.jpeg" width="300"/>
+<img src="foto_video/f6.jpeg" width="300"/>
+
+---
+
+### 📱 Mode Landscape
+
+<img src="foto_video/f7.jpeg" width="500"/>
+<img src="foto_video/f8.jpeg" width="500"/>
+
+> 📌 *Silakan ganti nama file dan tambahkan screenshot sesuai kebutuhan.*
+
+---
+
+## 🎥 Video Demo Aplikasi
+
+Berikut adalah video demo penggunaan aplikasi:
+
+🔗 **Link Video Demo:**
+## 🎥 Video Demo Aplikasi
+
+<video width="600" controls>
+  <source src="foto_video/demo.mp4" type="video/mp4">
+  Browser kamu tidak mendukung pemutaran video.
+</video>
+
+
+---
+
+
+## 📂 Struktur Project
+
+Project ini mengikuti struktur default Flutter:
+
+* `lib/` → source code utama
+* `android/` → konfigurasi Android
+* `test/` → unit & widget testing
+
+
+---
+
+## ✅ Catatan
+
+Repository ini dibuat khusus sebagai **bukti pengumpulan tugas** dan dokumentasi hasil pengerjaan aplikasi Flutter.
