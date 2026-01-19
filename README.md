@@ -56,14 +56,11 @@ Berikut adalah tampilan aplikasi serta databasenya sesuai dengan format **portra
 
 Berikut adalah video demo penggunaan aplikasi:
 
-🔗 **Link Video Demo:**
-## 🎥 Video Demo Aplikasi
-
 ## 🎥 Video Demo Aplikasi
 
 Klik gambar di bawah untuk melihat video demo aplikasi:
 
-[![Video Demo](foto_video/f1.jpeg)](foto_video/demo.mp4)
+[![Video Demo](foto_video/f1.jpeg)](foto_video/demo.mp4) 
 
 
 
